@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Dataset folders
+seg_train/
+seg_test/
+seg_pred/
+
+# Model checkpoints
+models/*.pth
+
+# System files
+.DS_Store
+Thumbs.db
