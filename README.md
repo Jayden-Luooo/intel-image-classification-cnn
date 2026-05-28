@@ -101,14 +101,6 @@ Prediction visualization for images from the `seg_pred` folder is saved to:
 results/predictions.png
 ```
 
-Example:
-
-```markdown
-![Prediction Results](results/predictions.png)
-```
-
----
-
 ## Project Structure
 
 ```text
