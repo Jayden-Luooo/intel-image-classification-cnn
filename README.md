@@ -1,6 +1,6 @@
 # Intel Image Classification with a Custom CNN
 
-Hi, this is Jayden Luo. This is my first deep learning project.
+Hi, this is Jayden. This is my first deep learning project.
 
 I am still learning and improving my coding and deep learning skills, so this project mainly focuses on understanding the full workflow of a CNN image classification project rather than building the most advanced model.
 
